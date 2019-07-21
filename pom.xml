@@ -11,6 +11,7 @@
 	</parent>
 	<groupId>com.hpe.pointnext.appex.appsdev2</groupId>
 	<artifactId>appsdev2-microservices-initiative</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>appsdev2-microservices-initiative</name>
 	<description>Demo project for Spring Boot</description>
